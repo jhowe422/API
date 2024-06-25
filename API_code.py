@@ -67,7 +67,7 @@ with open(output_file, "w", newline="") as csvfile:
     writer.writerow(["Source", "Gene ID", "Gene Name", "Annotations"]) #format output table
     
     #kegg info
-    organism_code = "dme"  #organism code for d. melanogaster
+    organism_code = " "  #organism code of choice here
     kegg_gene_info = get_kegg_gene_info(organism_code) #kegg function
     for line in kegg_gene_info: #extrapolate info from kegg
         parts = line.split("\t")
