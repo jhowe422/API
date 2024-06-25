@@ -1,0 +1,25 @@
+>NM_001031891.3 (mRNA)
+Best Hit: No hits found
+Length: 0
+E-value: N/A
+
+>NM_001169218.3 (DNA)
+Best Hit: gi|939628335|ref|NM_001169218.3| Drosophila melanogaster Sex lethal (Sxl), transcript variant AB, mRNA
+Length: 1800
+E-value: 0.0
+
+>NP_001162689.1 (Protein)
+Best Hit: gb|ACX32993.1| RE12578p [Drosophila melanogaster]
+Length: 360
+E-value: 0.0
+
+>XM_020946135.1 (DNA)
+Best Hit: gi|1189068378|ref|XM_020946135.1| PREDICTED: Drosophila serrata sex-lethal homolog (LOC110178861), mRNA
+Length: 1574
+E-value: 0.0
+
+>XP_020801794.1 (Protein)
+Best Hit: ref|XP_020801794.1| LOW QUALITY PROTEIN: sex-lethal homolog [Drosophila serrata]
+Length: 446
+E-value: 0.0
+
